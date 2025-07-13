@@ -1,4 +1,4 @@
-# ⚅ Yattzy game
+# ⚅ Yatzy game
 
 A text-based Yatzy game in **Finnish** built with Python.
 
